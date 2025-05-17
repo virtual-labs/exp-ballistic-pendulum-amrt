@@ -1,1 +1,1 @@
-## Experiment name
+## Ballistic Pendulum
