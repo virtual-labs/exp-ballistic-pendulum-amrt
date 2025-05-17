@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The following statement is true of which Law? 'If there is no external force acting on a system, its total linear momentum is conserved.'",
+      "answers": {
+        "a": "Law of Conservation of Momentum",
+        "b": "Law of Conservation of Force",
+        "c": "Law of Conservation of Mass",
+        "d": "Law of Conservation of Energy"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens in any collision?",
+      "answers": {
+        "a": "Mass is conserved",
+        "b": "Energy is conserved",
+        "c": "Momentum is conserved",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens in an inelastic collision?",
+      "answers": {
+        "a": "Only kinetic energy is conserved.",
+        "b": "Only momentum is conserved.",
+        "c": "Both momentum and kinetic energy is conserved.",
+        "d": "None of these."
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
