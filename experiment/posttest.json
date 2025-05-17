@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The following statement is true of which Law? 'If there is no external force acting on a system, its total linear momentum is conserved.'",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Law of Conservation of Momentum",
+        "b": "Law of Conservation of Force",
+        "c": "Law of Conservation of Mass",
+        "d": "Law of Conservation of Energy"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What happens in any collision?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mass is conserved",
+        "b": "Energy is conserved",
+        "c": "Momentum is conserved",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens in an inelastic collision?",
+      "answers": {
+        "a": "Only kinetic energy is conserved.",
+        "b": "Only momentum is conserved.",
+        "c": "Both momentum and kinetic energy is conserved.",
+        "d": "None of these."
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
