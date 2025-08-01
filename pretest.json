@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The time taken by a pendulum to complete one oscillation is called its _______.",
+      "answers": {
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Frequency",
+        "d": "Velocity"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The maximum displacement of a pendulum from its mean position is called ________.",
+      "answers": {
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Frequency",
+        "d": "Velocity"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The following statement is true of which Law? 'If there is no external force acting on a system, its total linear momentum is conserved.'",
+      "answers": {
+        "a": "Law of Conservation of Momentum",
+        "b": "Law of Conservation of Force",
+        "c": "Law of Conservation of Mass",
+        "d": "Law of Conservation of Energy"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens in any collision?",
+      "answers": {
+        "a": "Mass is conserved",
+        "b": "Energy is conserved",
+        "c": "Momentum is conserved",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens in an inelastic collision?",
+      "answers": {
+        "a": "Only kinetic energy is conserved.",
+        "b": "Only momentum is conserved.",
+        "c": "Both momentum and kinetic energy is conserved.",
+        "d": "None of these."
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
